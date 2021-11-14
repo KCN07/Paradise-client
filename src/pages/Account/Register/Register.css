@@ -1,0 +1,24 @@
+form{
+	padding-top: 10px;
+	font-size: 14px;
+	margin-top: 30px;
+}
+
+
+
+.btn{
+	font-size: 18px;
+	margin-top:20px;
+    width: 280px;
+}
+
+
+.login-form{ 
+	width:380px;
+	margin:20px;
+}
+
+.sign-up{
+	text-align:center;
+	padding:20px 0 0;
+}
